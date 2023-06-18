@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 print("If you don't have tessaract-ocr and libtesseract-dev installed, please install by running below command.")
 print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 print("sudo apt-get install tesseract-ocr && sudo apt-get install libtesseract-dev")
